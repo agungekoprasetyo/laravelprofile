@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "337565df-fe68-4dfb-a82a-30fcc1f53e88",
+		"name": "Testing API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "6670712"
+	},
+	"item": [
+		{
+			"name": "get all produk",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Insert produk",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
